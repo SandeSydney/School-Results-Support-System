@@ -1,0 +1,31 @@
+form{
+  display:table;
+  margin:auto;
+  text-align:justify;
+  width:100%;
+  height:60vh;
+  padding:10px;
+  padding-right: 20%;
+  padding-left: 20%;
+input{
+  width: 50% !important;
+}
+
+
+div.form-group.button_div{
+  padding-top:10px;
+  display:table;
+  margin:auto;
+  position:relative;
+}
+
+.ValidationError{
+  width:92%;
+  margin: 0px auto;
+  padding:5px 5px 10px 5px;
+  border:1px solid #a94442 !important;
+  color:#a94442 !important;
+  background: #f2dede !important;
+  border-radius:5px;
+  text-align:left;
+}
